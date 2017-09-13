@@ -17,6 +17,7 @@
 
 # Falacias Logicas
 
-  1. 
-  2.
-
+  1. Gabriel é homem 
+  2. Homens gostam de sorvete
+  3. Logo, Gabriel gosta de sorvete
+  

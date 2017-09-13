@@ -17,6 +17,7 @@
 
 # Falacias Logicas
 
-  1. 
-  2.
+  1.Lucas é homem.
+  2.Todo homem gosta de futebol.
+  3.Logo, Lucas gosta de futebol.
 

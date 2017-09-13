@@ -17,7 +17,14 @@
 
 # Falacias Logicas
 
+<<<<<<< HEAD
   1.Lucas é homem.
   2.Todo homem gosta de futebol.
   3.Logo, Lucas gosta de futebol.
 
+=======
+  1.Você desvirtuou um argumento para torná-lo mais fácil de atacar.
+  2.Você considera algo difícil de entender, ou não sabe como funciona, por isso você dá a entender que não seja verdade.
+  3. Supor que uma afirmação está necessariamente errada só porque ela não foi bem construída ou porque uma falácia foi cometida.
+  4. Você apela para a popularidade de um fato, no sentido de que muitas pessoas fazem/concordam com aquilo, como uma tentativa de validação dele.
+>>>>>>> 9e708790bd9bb4a420b26ab9fdcb5c9788cd2047

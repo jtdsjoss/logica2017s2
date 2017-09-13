@@ -19,4 +19,5 @@
 
   1.Você desvirtuou um argumento para torná-lo mais fácil de atacar.
   2.Você considera algo difícil de entender, ou não sabe como funciona, por isso você dá a entender que não seja verdade.
-  3.Você apela para a popularidade de um fato, no sentido de que muitas pessoas fazem/concordam com aquilo, como uma tentativa de validação dele.
+  3. Supor que uma afirmação está necessariamente errada só porque ela não foi bem construída ou porque uma falácia foi cometida.
+  4. Você apela para a popularidade de um fato, no sentido de que muitas pessoas fazem/concordam com aquilo, como uma tentativa de validação dele.

@@ -13,6 +13,7 @@
   - Cada aluno devera' criar seu ramo local 'feature-nome'
   - Escrever abaixo a falacia que pesquisou
   - Enviar as alteracoes para o ramo develop e em seguida para o github
+  - Ao serem inseridas todas as falacias, algum aluno devera' fazer a release a tag v1.0 para o ramo master
 
 # Falacias Logicas
 

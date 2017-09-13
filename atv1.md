@@ -17,6 +17,6 @@
 
 # Falacias Logicas
 
-  1. 
-  2.
+  1. Apelo à autoridade ou argumento ad verecundiam
+  2. 
 

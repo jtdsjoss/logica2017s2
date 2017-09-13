@@ -26,10 +26,13 @@
   7. Você apela para a popularidade de um fato, no sentido de que muitas pessoas fazem/concordam com aquilo, como uma tentativa de validação dele.
   8. Você julga uma pessoa baseada no grupo social no qual ela está inserida
   9. Lucas é homem , Todo homem gosta de futebol, Logo, Lucas gosta de futebol.1.Lucas é homem , Todo homem gosta de futebol, Logo, Lucas gosta de futebol.
-  1. Você desvirtuou um argumento para torná-lo mais fácil de atacar.
-  2. Você considera algo difícil de entender, ou não sabe como funciona, por isso você dá a entender que não seja verdade.
-  3. Supor que uma afirmação está necessariamente errada só porque ela não foi bem construída ou porque uma falácia foi cometida.
-  4. Você apela para a popularidade de um fato, no sentido de que muitas pessoas fazem/concordam com aquilo, como uma tentativa de validação dele.
-  5. Você julga uma pessoa baseada no grupo social no qual ela está inserida
-  6. Apelo à autoridade ou argumento ad verecundiam
-  7. Você declara que uma posição central entre duas extremas deve ser a verdadeira.
+  10. 1 .Lucas é homem , Todo homem gosta de futebol, Logo, Lucas gosta de futebol.1.Lucas é homem , Todo homem gosta de futebol, Logo, Lucas gosta de futebol.
+  11. Você desvirtuou um argumento para torná-lo mais fácil de atacar.
+  12. Você considera algo difícil de entender, ou não sabe como funciona, por isso você dá a entender que não seja verdade.
+  13. Supor que uma afirmação está necessariamente errada só porque ela não foi bem construída ou porque uma falácia foi cometida.
+  14. Você apela para a popularidade de um fato, no sentido de que muitas pessoas fazem/concordam com aquilo, como uma tentativa de validação dele.
+  15. Você julga uma pessoa baseada no grupo social no qual ela está inserida
+  16. Apelo à autoridade ou argumento ad verecundiam
+  17. Você declara que uma posição central entre duas extremas deve ser a verdadeira.
+  18. Ambiguidade:Você usa duplo sentido ou linguagem ambígua para apresentar a sua verdade de modo enganoso.
+  19. Você declara que uma posição central entre duas extremas deve ser a verdadeira.
